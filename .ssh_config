@@ -1,0 +1,5 @@
+#CAEN
+Host jobermai
+	HostName login.engin.umich.edu
+	User jobermai
+	Compression yes
